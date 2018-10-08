@@ -1,0 +1,12 @@
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Resources\test-data.csv
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Resources\training-data.csv
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\CourseClassifier.deps.json
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\CourseClassifier.runtimeconfig.json
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\CourseClassifier.runtimeconfig.dev.json
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\CourseClassifier.dll
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\CourseClassifier.pdb
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\CourseClassifier.csproj.CoreCompileInputs.cache
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\CourseClassifier.AssemblyInfoInputs.cache
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\CourseClassifier.AssemblyInfo.cs
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\CourseClassifier.dll
+c:\users\kimbe\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\CourseClassifier.pdb
